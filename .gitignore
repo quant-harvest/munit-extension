@@ -4,7 +4,9 @@ project/project/
 .bsp/
 .metals/
 .bloop/
+metals.sbt
 .idea/
 .vscode/
 .DS_Store
 *.log
+*.db
